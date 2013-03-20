@@ -80,10 +80,10 @@ JB :
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
   #
-  comments :
+  comments : true
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : huxinbang
     livefyre :
       site_id : 123
     intensedebate :
