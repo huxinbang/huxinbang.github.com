@@ -1,12 +1,18 @@
 ---
 layout: page
-title: Hi there!
-tagline: linux programming
+title: Welcome, this is a demo main page.
+tagline: linux programming code highlight code pretty
 ---
 {% include JB/setup %}
 
-This blog is built base on Jekyll:
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+Code highlight
+==
+<?prettify lang=c?>
+<pre>
+int main (int argc, char * argv[])
+{
+    int i = 0;
+}
+</pre>
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
