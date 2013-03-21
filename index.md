@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hi there!
-tagline: Hello 
+tagline: linux programming
 ---
 {% include JB/setup %}
 
